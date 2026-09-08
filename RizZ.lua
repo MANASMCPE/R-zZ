@@ -1,7 +1,7 @@
 -- Configuration
 local chatDelay = 1.25
 local messages = {
-    "//RizZ 🪷 By MonK\\",
+    "//RizZ 🥶 By MonK\\",
     "Nah I'D RizZ",
     "Sorry You Are Gonna R!ZZED",
     "So Let's RizZ", -- Added right below -pd
